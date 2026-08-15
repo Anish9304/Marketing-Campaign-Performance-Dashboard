@@ -143,16 +143,6 @@ ROI = (Revenue - Cost) / Cost
 
 ---
 
-## 🖼️ Dashboard Preview
-
-Add your dashboard screenshot to the repository and update the path below:
-
-```markdown
-<img width="1377" height="786" alt="image" src="https://github.com/user-attachments/assets/e471dd39-0a28-4915-9888-5602e567d116" />
-
-```
-
----
 
 ## 📂 Project Structure
 
