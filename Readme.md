@@ -196,6 +196,6 @@ It can help stakeholders:
 
 **Anish Raj**
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
+Aspiring Data Analyst passionate about transforming data into meaningful business insights using Power BI, SQL, Excel, and Python.
 
 If you found this project useful, feel free to ⭐ the repository.
